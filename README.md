@@ -10,11 +10,11 @@ This project is ongoing so only some files are uploaded at the moment.
 
 ### Technologies used so far
 
-Python
-Dbeaver, MySQL
-Pandas, jupyter notebook
-Tableau
-NLP (Natural Language Processing)
+- Python
+- Dbeaver, MySQL
+- Pandas, jupyter notebook
+- Tableau
+- NLP (Natural Language Processing)
 
 
 ### Featured Notebooks/Analysis/Deliverables

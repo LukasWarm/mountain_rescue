@@ -2,7 +2,7 @@
 
 ### Project Intro/Objective
 
-This repository is for a project that sets out to analyse the last 10 years of mountain accident reports in the Lake District UK. The goal of this project is to help hikers better understand what factors lead to accidents and the relationship between these factors such as weather conditions, experience level, orientation methods. This will be achieved using natural language processing and tagging. Alongside analysing this data, this project will also help LAMRT (Langdale Ambleside Mountain Rescue Team) clean their data and fix issues such as rogue geocoding. 
+This repository is for a project that sets out to analyse the last 10 years of mountain rescue reports in the Lake District UK. The goal of this project is to help hikers better understand what factors lead to accidents and the relationship between these factors such as weather conditions, experience level, orientation methods. This will be achieved using natural language processing and tagging. Alongside analysing this data, this project will also help LAMRT (Langdale Ambleside Mountain Rescue Team) clean their data and fix issues such as rogue geocoding. 
 
 ### NOTE
 
